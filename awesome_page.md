@@ -1,4 +1,4 @@
-#Merging & Pull Requests in GitHub
+###**Merging & Pull Requests in GitHub**
 
 **Merging in GitHub**
 You can create a new feature branch and navigate to it by using the following command:
